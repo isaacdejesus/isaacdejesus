@@ -1,5 +1,11 @@
-### Hi there 👋
+## About:
+ Hello, I am Isaac. 
+ 
+ I create software amongst other things.
 
+ Currently learning React and other web related technologies.
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacdejesus)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **isaacdejesus/isaacdejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

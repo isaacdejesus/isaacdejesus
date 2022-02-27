@@ -1,0 +1,90 @@
+Headings: 
+# Corresponds to HTML H1
+## Corresponds to HTML H2
+### Corresponds to HTML H6
+-----------------------------------------
+Bold:
+**This makes text bold**
+Italic:
+*I am italic*
+Strikethrough:
+~~Line through text~~
+-----------------------------------------
+Adding a link:
+[Click me](google.com)
+Link to header sections:
+If we have a heading such as: ## New me
+We link it like so: [I link to another section] (#new-me)
+Initial space between # and name is removed and other spaces replaced byt -`:w
+----------------------------------------
+Adding an img:
+![Title](linktoimg)
+----------------------------------------
+Unordered List:
+- Item 1
+- Item 2 
+- Item 3
+or 
+* Item 1
+* Item 2
+* Item 3
+
+Ordered List:
+1. Item 1
+2. Item 2
+3. Item 3
+
+or 
+1. Item 1
+1. Item 2
+1. Item 3
+--------------------------------------
+Checklists:
+- [x] To-do 1
+- [ ] To-do 2
+- [ ] To-do 3
+
+x marks things as done. 
+There must be a space inside [ ]
+--------------------------------------
+Nested lists:
+- Item 1
+    - Sub item 1
+    - Sub item 2
+-Item 2
+-------------------------------------
+Tables:
+| Job | Salary |
+| :--- | :---|
+|Potato Salesman | $180000|
+|Potato Farmer | $266266262|
+
+Alignment:
+:-- align left
+:--: center aligned
+--: align right
+-------------------------------------
+Display code:
+inline code:
+This is how to display `inline code`
+Code block:
+```
+I am a code block 
+```
+Code highlighting:
+```ts
+const code 
+```
+---------------------------------------
+<!--comments-->
+--------------------------------------
+
+
+
+
+
+
+
+Widgets: 
+https://github.com/anuraghazra
+https://github.com/anuraghazra/github-readme-stats
